@@ -1,4 +1,4 @@
-package task4;
+package week34.task4;
 
 /**
  * Functional Interface that represents a condition.

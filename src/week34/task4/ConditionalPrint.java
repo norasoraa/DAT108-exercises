@@ -1,4 +1,4 @@
-package task4;
+package week34.task4;
 
 /**
  * Class that prints a string if a certain condition is met.
